@@ -1,2 +1,2 @@
 # moratabdo
-Grupo de Fans de Morata y Haters de Trincao
+Grupo de Fans de trincaoy Haters de morata
