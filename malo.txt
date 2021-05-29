@@ -1,2 +1,7 @@
 el peor
+<<<<<<< HEAD
 Envidioso
+=======
+es mentira lo que diga carlos
+>>>>>>> 527f0f30c264db8073b55404bf137f03e2ce705a
+No tiene Ni puta idea
