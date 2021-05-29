@@ -1,2 +1,8 @@
 Nico es un maquina
+<<<<<<< HEAD
 fuera de la seleccion
+=======
+Morata titular
+Morata titular
+Morata GOAT
+>>>>>>> 97a74fac9033c049277c008418f251b98e9300c7
